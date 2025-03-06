@@ -1,0 +1,3 @@
+[submodule "bcresnet"]
+	path = bcresnet
+	url = https://github.com/jaeeunbaik/bcresnet.git
